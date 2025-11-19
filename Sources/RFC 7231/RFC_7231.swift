@@ -1,4 +1,3 @@
-import Foundation
 
 /// RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content
 ///
